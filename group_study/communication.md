@@ -42,9 +42,9 @@ how often will we get in touch on each channel, and what we will discuss there:
 | _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
 
 
-| Day             |       Monday       |       Tuesday      |      Wednesday      | Thursday | Friday  | Saturday | Sunday  |
-| ----------------| :-----------------:| :-----------------:| :-----------------: | :------: | :-----: | :------: | :-----: |
-| Batool Alkaddah | 8 - 9, 13:30-17:30 | 8 - 9, 13:30-17:30 | 8 - 9, 13:30-17:30  |  8 - 17  |  8 - 17 | 12 - 20  | 12 - 20 |
+| Day    |       Monday       |       Tuesday      |      Wednesday      | Thursday | Friday  | Saturday | Sunday  |
+| -------| :-----------------:| :-----------------:| :-----------------: | :------: | :-----: | :------: | :-----: |
+| Batool | 8 - 9, 13:30-17:30 | 8 - 9, 13:30-17:30 | 8 - 9, 13:30-17:30  |  8 - 17  |  8 - 17 | 12 - 20  | 12 - 20 |
 ### How many hours everyone has per day:
 
 - name: _5h_; extra comments?
