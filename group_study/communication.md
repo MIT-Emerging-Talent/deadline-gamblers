@@ -45,6 +45,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 | Day    |       Monday       |       Tuesday      |      Wednesday      | Thursday | Friday  | Saturday | Sunday  |
 | -------| :-----------------:| :-----------------:| :-----------------: | :------: | :-----: | :------: | :-----: |
 | Batool | 8 - 9, 13:30-17:30 | 8 - 9, 13:30-17:30 | 8 - 9, 13:30-17:30  |  8 - 17  |  8 - 17 | 12 - 20  | 12 - 20 |
+| Adel | 10 - 13 | 10 - 13 | 10 - 13 | 10 - 13  | 10 - 13 | 10 - 13  | 10 - 13 |
 ### How many hours everyone has per day:
 
 - name: _5h_; extra comments?
