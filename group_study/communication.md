@@ -46,6 +46,8 @@ how often will we get in touch on each channel, and what we will discuss there:
 | -------| :-----------------:| :-----------------:| :-----------------: | :------: | :-----: | :------: | :-----: |
 | Batool | 8 - 9, 13:30-17:30 | 8 - 9, 13:30-17:30 | 8 - 9, 13:30-17:30  |  8 - 17  |  8 - 17 | 12 - 20  | 12 - 20 |
 | Adel | 10 - 13 | 10 - 13 | 10 - 13 | 10 - 13  | 10 - 14 | 10 - 13  | 10 - 13 |
+| Fahim Ahmad (CET)| 20 - 22 | 20 - 22 | 20 - 22 | 20 - 22  | 20 - 22 | 18 - 22 | 08 - 10, 18 - 22 |
+
 ### How many hours everyone has per day:
 
 - name: _5h_; extra comments?
