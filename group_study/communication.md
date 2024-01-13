@@ -19,7 +19,7 @@
 
 | Day | How | The topic of discussion |
 | --- | :-: | ----------------------- |
-|     |     |                         |
+|  Friday 12/01   |   Zoom  |      Initial meeting                   |
 
 ## Communication Channels
 
@@ -47,14 +47,15 @@ how often will we get in touch on each channel, and what we will discuss there:
 | Batool | 8 - 9, 13:30-17:30 | 8 - 9, 13:30-17:30 | 8 - 9, 13:30-17:30  |  8 - 17  |  8 - 17 | 12 - 20  | 12 - 20 |
 | Adel | 10 - 13 | 10 - 13 | 10 - 13 | 10 - 13  | 10 - 14 | 10 - 13  | 10 - 13 |
 | Fahim Ahmad (CET)| 20 - 22 | 20 - 22 | 20 - 22 | 20 - 22  | 20 - 22 | 18 - 22 | 08 - 10, 18 - 22 |
+| Mohammad (EET) | 9 - 13  | 9 - 13 | 9 - 13  | 9 - 13 | 9 - 13 | 11 - 19 |  11 - 19 |
 
 ### How many hours everyone has per day:
 
-- name: _5h_; extra comments?
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+| Name | Availability Hours (_Per day_) | Comment |
+| -------| :-----------------:| :-----------------:|
+| Mohammad | 4 hours | I'm available 8 hours on Sat & Sun |
+
+
 
 ## Asking for Help
 
