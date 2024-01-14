@@ -30,5 +30,11 @@ output: "10.0"
 add_string_numbers("4", "6")
 output: "10"
 
+add_string_numbers("three", "4")
+output: ValueError: sn1='three' is not a valid numeric string
+
+add_string_numbers("3", "four")
+ValueError: sn2='four' is not a valid numeric string
+
 ```
 
