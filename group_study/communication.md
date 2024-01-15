@@ -48,12 +48,15 @@ how often will we get in touch on each channel, and what we will discuss there:
 | Adel | 10 - 13 | 10 - 13 | 10 - 13 | 10 - 13  | 10 - 14 | 10 - 13  | 10 - 13 |
 | Fahim Ahmad (CET)| 20 - 22 | 20 - 22 | 20 - 22 | 20 - 22  | 20 - 22 | 18 - 22 | 08 - 10, 18 - 22 |
 | Mohammad (EET) | 9 - 13  | 9 - 13 | 9 - 13  | 9 - 13 | 9 - 13 | 11 - 19 |  11 - 19 |
+| Abed (EET aka GMT+2) | 11 - 16  | 11 - 16 | - | 11-16 | 11-16 | - |  flexible |
 
 ### How many hours everyone has per day:
 
 | Name | Availability Hours (_Per day_) | Comment |
 | -------| :-----------------:| :-----------------:|
 | Mohammad | 4 hours | I'm available 8 hours on Sat & Sun |
+| Abed | 4 hours | I'm not always available during the weekends but am flexible if we schedule ahead |
+
 
 
 
