@@ -50,6 +50,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 | Mohammad (EET) | 9 - 13  | 9 - 13 | 9 - 13  | 9 - 13 | 9 - 13 | 11 - 19 |  11 - 19 |
 | Abed (EET aka GMT+2) | 11 - 16  | 11 - 16 | - | 11-16 | 11-16 | - |  flexible |
 | Mariam(EST) | 9 - 12   | 9 - 12, 16- 20 | 9 - 12, 16- 20  |9 - 12, 16- 20 | 9 - 12, 16- 20 | FLEXIBLE | FLEXIBLE|
+| Viktoria | 10 - 16, 20 - 22 | 10 - 16, 20 - 22 | 10 - 16 | 10 - 16 | 12 - 18, 20 - 22 | - | flexible |
 ### How many hours everyone has per day:
 
 | Name | Availability Hours (_Per day_) | Comment |
@@ -57,7 +58,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 | Mohammad | 4 hours | I'm available 8 hours on Sat & Sun |
 | Abed | 4 hours | I'm not always available during the weekends but am flexible if we schedule ahead |
 | Mariam | 6 hrs| Flexible on Sat and Sun|
-
+| Viktoria | 4-5 hours | All days except Saturday |
 
 
 ## Asking for Help
