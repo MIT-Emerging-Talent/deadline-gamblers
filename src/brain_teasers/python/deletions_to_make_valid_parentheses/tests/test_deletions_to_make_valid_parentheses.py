@@ -1,8 +1,12 @@
 import unittest
 
-from src.deletions_to_make_valid_parentheses import (
-    deletions_to_make_valid_parentheses,
-)
+# from src.deletions_to_make_valid_parentheses import (
+#     deletions_to_make_valid_parentheses,
+# )
+
+#Edited to test locally in my PC
+from src.brain_teasers.python.deletions_to_make_valid_parentheses.src.deletions_to_make_valid_parentheses import \
+    deletions_to_make_valid_parentheses
 
 
 class TestDeletionsToMakeValidParentheses(unittest.TestCase):
