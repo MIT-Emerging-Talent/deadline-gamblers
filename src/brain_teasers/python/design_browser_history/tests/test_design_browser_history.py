@@ -1,6 +1,9 @@
 import unittest
 
-from src.design_browser_history import BrowserHistory
+# from src.design_browser_history import BrowserHistory
+#Edited to test locally in my PC
+
+from src.brain_teasers.python.design_browser_history.src.design_browser_history import BrowserHistory
 
 
 class TestDesignBrowserHistory(unittest.TestCase):
