@@ -1,3 +1,13 @@
+"""
+This module provides functions for performing merge sort on arrays.
+
+Functions:
+- merge(left, right): Merge two sorted lists into a single sorted list.
+- mergesort_v1(array): Sorts an array recursively using the merge sort algorithm.
+- mergesort_v2(array): Sorts an array using the merge sort algorithm.
+"""
+
+
 def merge(left, right):
     """
     Merge two sorted lists into a single sorted list.
@@ -56,6 +66,7 @@ def mergesort_v2(array):
     Returns:
         list: The sorted array.
     """
+
     def _merge_sort(items, start, end):
         if end - start > 1:
             mid = (start + end) // 2
