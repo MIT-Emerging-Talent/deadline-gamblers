@@ -1,4 +1,11 @@
+"""
+Module: randomize_array
+
+This module contains a function that randomizes the order of elements in an array.
+"""
+
 import random
+
 
 def randomize_array(original_array):
     """
@@ -6,7 +13,7 @@ def randomize_array(original_array):
 
     Parameters:
         original_array (list): The original array to be randomized.
-        
+
     Returns:
         list: A new array with the elements of the original array in random order.
     """
