@@ -3,14 +3,12 @@ class Vertex:
         self.value = value
 
     def __eq__(self, other):
-
         if isinstance(other, Vertex):
             return self.value == other.value
 
         return False
 
     def __lt__(self, other):
-
         if not isinstance(other, Vertex):
             raise NotImplementedError
 
@@ -30,7 +28,6 @@ class Edge:
         self.distance = distance
 
     def __eq__(self, other):
-
         if isinstance(other, Edge):
             return (
                 self.source == other.source
@@ -41,7 +38,6 @@ class Edge:
         return False
 
     def __lt__(self, other):
-
         if not isinstance(other, Edge):
             raise NotImplementedError
 
@@ -56,7 +52,6 @@ class Graph:
         self._adj_dict = dict()
 
     def add_edge(self, edge):
-
         if edge.source in self._adj_dict:
             self._adj_dict[edge.source].append(edge)
 
@@ -104,7 +99,6 @@ class Graph:
         return len(self._adj_dict)
 
     def __repr__(self):
-
         result = ""
         for vertex, edges in self._adj_dict.items():
             result += f"{vertex} —> "
