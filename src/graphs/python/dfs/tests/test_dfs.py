@@ -12,7 +12,6 @@ from dfs import dfs
 
 class TestDFS(unittest.TestCase):
     def test_dfs_str_vertices_negative(self):
-
         graph = Graph()
 
         graph.add_edge(Edge(Vertex("A"), Vertex("D"), 2))
@@ -31,7 +30,6 @@ class TestDFS(unittest.TestCase):
         self.assertEqual(dfs(graph, Vertex("C"), Vertex("D")), float("inf"))
 
     def test_dfs_int_vertices_positive(self):
-
         graph = Graph()
 
         graph.add_edge(Edge(Vertex(0), Vertex(1), 1))
@@ -53,7 +51,6 @@ class TestDFS(unittest.TestCase):
         self.assertEqual(dfs(graph, Vertex(2), Vertex(4)), 4)
 
     def test_dfs_int_vertices_negaitve(self):
-
         graph = Graph()
 
         graph.add_edge(Edge(Vertex(1), Vertex(2), 1))
