@@ -20,6 +20,7 @@
 - Review PRs as early as possible
 - Assign team members to pull requests
 - Flag messages with URGENT: Add tag urgent to some messages in slack
+- Adding Technical meeting sessions 30-45 min (Flexible).
 
 ## Lessons Learned
 - Time Management in a more realistic way.
