@@ -1,5 +1,6 @@
 
-def selectionsort_v1(arr):
+def selectionsort_v1(arr: list()) -> list():
+
     n = len(arr)
 
     #Base case
@@ -24,4 +25,4 @@ def selectionsort_v1(arr):
 
     return arr
 
-print(selectionsort_v1([2, 5, 1, 4, 3]))
+# print(selectionsort_v1([2, 5, 1, 4, 3]))
