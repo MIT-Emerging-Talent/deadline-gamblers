@@ -25,11 +25,11 @@
 
 how often will we get in touch on each channel, and what we will discuss there:
 
-- **Issues**:
-- **Pull Requests**:
-- **GitHub Discussions**
-- **Slack/Discord**:
-- **Video Calls**:
+- **Issues**: Daily
+- **Pull Requests**: Always
+- **GitHub Discussions**: Never (Not preferred)
+- **Slack/Discord**: Daily
+- **Video Calls**: Weekly/ 2 times per week
 
 ---
 
@@ -64,7 +64,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 ## Asking for Help
 
 There's a fine line between confidently learning from your mistakes, and
-stubbornly getting no where. Here is a general guide for when to ask for help
+stubbornly getting nowhere. Here is a general guide for when to ask for help
 based on how long you've been stuck on the same problem:
 
 1. _0 -> 30 min_: Try on your own

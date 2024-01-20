@@ -30,7 +30,6 @@ class TestBFS(unittest.TestCase):
         self.assertEqual(bfs(graph, Vertex("C"), Vertex("D")), float("inf"))
 
     def test_bfs_int_vertices_positive(self):
-
         graph = Graph()
 
         graph.add_edge(Edge(Vertex(0), Vertex(1), 1))
@@ -52,7 +51,6 @@ class TestBFS(unittest.TestCase):
         self.assertEqual(bfs(graph, Vertex(2), Vertex(4)), 2)
 
     def test_bfs_int_vertices_negaitve(self):
-
         graph = Graph()
 
         graph.add_edge(Edge(Vertex(1), Vertex(2), 1))

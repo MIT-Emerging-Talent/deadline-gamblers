@@ -12,7 +12,6 @@ from bellman_ford import bellman_ford
 
 class TestBellmanFord(unittest.TestCase):
     def test_bellman_ford_str_vertices_negative(self):
-
         graph = Graph()
 
         graph.add_edge(Edge(Vertex("A"), Vertex("D"), 2))
@@ -31,7 +30,6 @@ class TestBellmanFord(unittest.TestCase):
         self.assertEqual(bellman_ford(graph, Vertex("C"), Vertex("D")), float("inf"))
 
     def test_bellman_ford_int_vertices_positive(self):
-
         graph = Graph()
 
         graph.add_edge(Edge(Vertex(0), Vertex(1), 1))
@@ -53,7 +51,6 @@ class TestBellmanFord(unittest.TestCase):
         self.assertEqual(bellman_ford(graph, Vertex(2), Vertex(4)), 2)
 
     def test_bellman_ford_int_vertices_negaitve(self):
-
         graph = Graph()
 
         graph.add_edge(Edge(Vertex(1), Vertex(2), 1))
