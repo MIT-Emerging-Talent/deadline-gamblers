@@ -59,6 +59,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 | Abed | 4 hours | I'm not always available during the weekends but am flexible if we schedule ahead |
 | Mariam | 6 hrs| Flexible on Sat and Sun|
 | Viktoria | 4-5 hours | All days except Saturday |
+| Batool  |  4 hours |  All days - more available in the weekends |
 
 
 ## Asking for Help
