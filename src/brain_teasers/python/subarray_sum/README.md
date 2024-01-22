@@ -30,3 +30,10 @@ output: 20
 subarray_sum([10, 10, 10, 10], 1, 3)
 output: 20
 ```
+
+## Test the Code Implementation
+
+Run the following command in the array_product directory.
+
+```pash
+python -m unittest discover -v
