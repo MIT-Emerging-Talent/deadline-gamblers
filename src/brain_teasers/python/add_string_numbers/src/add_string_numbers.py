@@ -1,3 +1,12 @@
+"""
+Module: string_number_addition
+
+Description:
+This module provides a function, add_string_numbers, that adds two numbers represented as strings
+and returns the result as a string.
+
+"""
+
 from decimal import Decimal
 def add_string_numbers(sn1, sn2):
     """
