@@ -1,6 +1,6 @@
 # K Closest Points to (0, 0)
 
-This python function finds the K closest points to (0, 0) in a given list of points.
+This `python` function finds the K closest points to (0, 0) in a given list of points.
 
 ```
 # function: 
