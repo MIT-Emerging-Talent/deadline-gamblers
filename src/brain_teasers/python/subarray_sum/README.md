@@ -2,7 +2,7 @@
 
 Python function to sum the elements of a subarray of an input array.
 
-```
+```python
 # function:
 subarray_sum(arr, start_index, end_index)
 
@@ -14,7 +14,7 @@ end_index: ending index of the subarray
 
 This function takes an array as input with all elements as numeric, makes a sub-array based the start and end indices, and returns the sum of the sub-array.
 
-```
+```python
 subarray_sum([0, 0, 0, 0], 0, 3)
 output: 0
 
