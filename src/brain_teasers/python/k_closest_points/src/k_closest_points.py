@@ -1,5 +1,22 @@
 def k_closest_points(points, k):
+    """
+    Finds the K closest points to the origin (0, 0) in a given list of points.
+
+    Parameters:
+    - points (list of tuples): A list containing points represented as tuples.
+    - k (int): The number of closest points to return.
+
+    Returns:
+    list of tuples: The K closest points to the origin (0, 0).
+    """
+
     def distance_function(point):
+        """
+        Helper function to calculate the Euclidean distance of a point from the origin (0, 0).
+
+        Parameters:
+        - point (tuple): A point represented as a tuple.
+        """
         return ((point[0]-0)**2 + (point[1]-0)**2)**0.5
     
     return sorted(points, key=distance_function)[:k]
