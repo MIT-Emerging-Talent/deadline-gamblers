@@ -1,3 +1,8 @@
+""" subarray_sum Module
+This function provides is developed for calculating the sum of a sub-array from a given array.
+It takes an array as input, makes a sub-array based on start and end indices, and calculates the sum of elements of the sub-array.
+"""
+
 def subarray_sum(arr, start_index, end_index):
     """
     Calculate the sum of a sub-array from a given array
