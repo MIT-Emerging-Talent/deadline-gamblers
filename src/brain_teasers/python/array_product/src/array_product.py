@@ -1,4 +1,4 @@
-def product_of_array_except_self(arr):
+def array_product(arr):
     """
     Calculate the product of all elements in an input array, excluding the element at each index.
 
