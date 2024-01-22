@@ -31,3 +31,10 @@ array_product([0])
 output: [0]
 
 ```
+
+## Test the Code Implementation
+Run the following command in the `array_product` directory.
+
+```pash
+python -m unittest discover -v
+```
