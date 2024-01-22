@@ -33,3 +33,7 @@ Run below code in `k_closest_points` directory.
 ```bash
 python -m unittest discover -v
 ```
+
+## Summary
+
+This `k_closest_points` functiion identifies the K closest points to the origin (0, 0) from a given list of points. The implementation includes a helper function to calculate distances. Furthermore, examples are provided for usage along with a test code for validation.
