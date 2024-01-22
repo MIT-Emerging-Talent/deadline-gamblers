@@ -1,3 +1,9 @@
+""" Module header: K_closest_points
+
+This is designed for identification of the K closest points to the origin (0, 0) within a given list of points.
+The function utilizes a helper function, `distance_function`, to calculate Euclidean distances.
+"""
+
 def k_closest_points(points, k):
     """
     Finds the K closest points to the origin (0, 0) in a given list of points.
