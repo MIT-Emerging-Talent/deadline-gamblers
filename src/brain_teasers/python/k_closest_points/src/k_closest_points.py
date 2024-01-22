@@ -4,7 +4,7 @@ This is designed for identification of the K closest points to the origin (0, 0)
 The function utilizes a helper function, `distance_function`, to calculate Euclidean distances.
 """
 
-def k_closest_points(points, k):
+def k_closest_points(points: list[tuple[int, int]], k: int) -> list[tuple[int, int]]:
     """
     Finds the K closest points to the origin (0, 0) in a given list of points.
 
