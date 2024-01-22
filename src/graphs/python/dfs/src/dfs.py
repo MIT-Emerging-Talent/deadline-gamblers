@@ -1,6 +1,6 @@
 from typing import Set, Optional
 def dfs(graph, current_vertex, target_vertex,
-        visited: Optional[Set[Vertex]] = None, distance: int = 0) -> float:
+        visited = None, distance: int = 0) -> float:
     """
     Perform a depth-first search (DFS) on a graph from a starting vertex to a target vertex,
     calculating the total distance of the discovered path. If the target vertex is not reachable,
