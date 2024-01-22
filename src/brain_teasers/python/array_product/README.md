@@ -1,4 +1,4 @@
-# Array Product Except Self
+# Array Product
 
 This function takes an array as input and returns a new array of the same length where each element represents the product of all elements in the original array except the one at the corresponding index.
 
