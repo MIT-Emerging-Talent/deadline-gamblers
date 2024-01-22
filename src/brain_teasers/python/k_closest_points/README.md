@@ -25,3 +25,11 @@ k_closest_points([(-3, -4), (0, 0), (1, 1), (0, 0), (0, 0), (-5, -6)], 3)
 output: [(0, 0), (0, 0), (0, 0)]
 
 ```
+
+## Test Code Implementation
+
+Run below code in `k_closest_points` directory.
+
+```bash
+python -m unittest discover -v
+```
