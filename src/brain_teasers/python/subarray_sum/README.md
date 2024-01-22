@@ -37,3 +37,14 @@ Run the following command in the array_product directory.
 
 ```pash
 python -m unittest discover -v
+```
+
+## Summary
+
+The `subarray_sum` function calculates the sum of a subarray of an input array. It takes three parameters:
+
+arr: An array of numeric values.
+start_index: The starting index of the subarray.
+end_index: The ending index of the subarray.
+
+The function creates a subarray based on the specified start and end indices and returns the sum of the elements within that subarray.
