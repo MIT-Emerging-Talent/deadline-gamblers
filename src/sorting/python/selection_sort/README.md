@@ -1,7 +1,7 @@
 
 ---
 
-**Selection Sort Implementation in Python**
+## Selection Sort Implementation in Python
 
 The `selectionsort_v1` function is a Python implementation of the Selection Sort algorithm. It takes an array `arr` as input and sorts it in ascending order using the Selection Sort technique. The algorithm works by iteratively finding the minimum element from the unsorted part of the array and swapping it with the first element of the unsorted part.
 

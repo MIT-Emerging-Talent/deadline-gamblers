@@ -3,13 +3,13 @@ import unittest
 import os
 import sys
 
-# file_dir = os.path.dirname(os.path.dirname(__file__))
-# sys.path.append(file_dir + "/src")
-# from selection_sort import selectionsort_v1
+file_dir = os.path.dirname(os.path.dirname(__file__))
+sys.path.append(file_dir + "/src")
+from selection_sort import selectionsort_v1
 
 # Edited this part
-from src.sorting.python.selection_sort.src.selection_sort import \
-    selectionsort_v1
+# from src.sorting.python.selection_sort.src.selection_sort import \
+#     selectionsort_v1
 
 
 # from src.sorting.python.selection_sort import selectionsort_v1

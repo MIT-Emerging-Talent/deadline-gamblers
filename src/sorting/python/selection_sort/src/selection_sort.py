@@ -1,5 +1,9 @@
 
 def selectionsort_v1(arr: list()) -> list():
+    """
+    :param arr: list of unsorted numbers
+    :return: list of sorted numbers
+    """
 
     n = len(arr)
 
