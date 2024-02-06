@@ -1,5 +1,4 @@
 # Insertion Sort Algorithm
-
 This Python module provides an implementation of the Insertion Sort algorithm. It sorts a list of comparable elements in ascending order.
 
 ## Installation
